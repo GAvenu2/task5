@@ -5,3 +5,7 @@ And in order to ngenerate network traffic browsed the google and captured the pa
 and finally searched for any malicious traffic.
 There were few failed SYN packets and  most were succesfull ACK packets and DNS queries were responded properly.
 From this activity i was able understand how to use wireshark and able capture packets.
+
+
+
+ I took help from youtube, chatgpt, and google to understand.
